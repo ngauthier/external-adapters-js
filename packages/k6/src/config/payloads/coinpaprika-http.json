@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "1INCH / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"1INCH\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "1INCH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"1INCH\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AAVE / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AAVE\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "AAVE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AAVE\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ADA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ADA\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ADX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ADX\",\"overrides\":{\"coingecko\":{\"ADX\":\"adex\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AKRO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AKRO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ALBT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALBT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ALCX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALCX\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ALCX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALCX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ALGO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALGO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ALPHA / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALPHA\",\"overrides\":{\"coingecko\":{\"ALPHA\":\"alpha-finance\"},\"coinpaprika\":{\"ALPHA\":\"alpha-alpha-finance\"},\"nomics\":{\"ALPHA\":\"ALPHA7\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ALUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ALUSD\",\"overrides\":{\"coinpaprika\":{\"ALUSD\":\"alusd-alchemixusd\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AMP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AMP\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AMPL / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AMPL\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "AMPL / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"vwap\",\"from\":\"AMPL\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ANKR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ANKR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ANT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ANT\",\"overrides\":{\"coingecko\":{\"ANT\":\"aragon\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "APE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"APE\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ARPA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ARPA\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ATOM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ATOM\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ATOM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ATOM\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AUDIO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AUDIO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AVAX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AVAX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "AXS / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"AXS\",\"overrides\":{\"nomics\":{\"AXS\":\"axs2\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BADGER / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BADGER\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BAL / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAL\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BAL / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAL\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BAND / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAND\",\"overrides\":{\"coingecko\":{\"BAND\":\"band-protocol\"},\"coinpaprika\":{\"BAND\":\"band-band-protocol\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BAND / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAND\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BAT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAT\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BAT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BAT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BCH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BCH\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BICO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BICO\",\"overrides\":{\"coingecko\":{\"BICO\":\"biconomy\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BIT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BIT\",\"overrides\":{\"coinpaprika\":{\"BIT\":\"bit-bitdao\"},\"nomics\":{\"BIT\":\"BIT2\"},\"tiingo\":{\"BIT\":\"BITDAO\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BNB / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BNB\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BNB / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BNB\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BNT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BNT\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BNT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BNT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BORING / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BORING\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "BTC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BTC\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BUSD / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BUSD\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "BUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"BUSD\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "C98 / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"C98\",\"overrides\":{\"coingecko\":{\"C98\":\"coin98\"},\"coinpaprika\":{\"C98\":\"c98-coin98\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CAKE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CAKE\",\"overrides\":{\"coingecko\":{\"CAKE\":\"pancakeswap-token\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CEL / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CEL\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "CELO / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CELO\",\"overrides\":{\"coinpaprika\":{\"CELO\":\"celo-celo\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "COMP / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"COMP\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "COMP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"COMP\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CREAM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CREAM\",\"overrides\":{\"coinpaprika\":{\"CREAM\":\"cream-cream\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "CRO / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CRO\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "CRO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CRO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CRV / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CRV\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "CRV / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CRV\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CSPR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CSPR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "CVX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CVX\",\"overrides\":{\"coingecko\":{\"CVX\":\"convex-finance\"},\"coinpaprika\":{\"CVX\":\"cvx-convex-finance\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "CVX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"CVX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "DAI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DAI\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "DAI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DAI\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "DASH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DASH\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "DNT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DNT\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "DODO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DODO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "DOGE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DOGE\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "DOT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"DOT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "EGLD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"EGLD\",\"overrides\":{\"coingecko\":{\"EGLD\":\"elrond-erd-2\"},\"coinpaprika\":{\"EGLD\":\"egld-elrond\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ENJ / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ENJ\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ENJ / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ENJ\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ENS / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ENS\",\"overrides\":{\"coingecko\":{\"ENS\":\"ethereum-name-service\"},\"coinpaprika\":{\"ENS\":\"ens-ethereum-name-service\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "EOS / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"EOS\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ERN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ERN\",\"overrides\":{\"coingecko\":{\"ERN\":\"ethernity-chain\"},\"nomics\":{\"ERN\":\"ERN2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ETC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ETC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ETH / BTC",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ETH\",\"to\":\"BTC\"}}"
+  },
+  {
+    "name": "EURT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"EURT\",\"overrides\":{\"coingecko\":{\"EURT\":\"tether-eurt\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FARM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FARM\",\"overrides\":{\"coingecko\":{\"FARM\":\"harvest-finance\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FEI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FEI\",\"overrides\":{\"coingecko\":{\"FEI\":\"fei-usd\"},\"coinpaprika\":{\"FEI\":\"fei-fei-protocol\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FEI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FEI\",\"overrides\":{\"coingecko\":{\"FEI\":\"fei-usd\"},\"coinpaprika\":{\"FEI\":\"fei-fei-protocol\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FIL / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FIL\",\"overrides\":{\"coingecko\":{\"FIL\":\"filecoin\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FLOKI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FLOKI\",\"overrides\":{\"coingecko\":{\"FLOKI\":\"FLOKI-INU\"},\"coinpaprika\":{\"FLOKI\":\"floki-floki-inu\"},\"nomics\":{\"FLOKI\":\"FLOKI14\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FOR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FOR\",\"overrides\":{\"coinpaprika\":{\"FOR\":\"for-fortube\"},\"nomics\":{\"FOR\":\"FORCEPROTOCOL\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FORTH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"FORTH\",\"overrides\":{\"coingecko\":{\"FORTH\":\"ampleforth-governance-token\"},\"coinpaprika\":{\"FORTH\":\"forth-ampleforth-governance-token\"},\"nomics\":{\"FORTH\":\"FORTH\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FRAX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FRAX\",\"includes\":[\"WETH\"],\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FRAX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"FRAX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "FTM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FTM\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FTT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FTT\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "FTT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"FTT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "GLM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GLM\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "GNO / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GNO\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "GRT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GRT\",\"overrides\":{\"coingecko\":{\"GRT\":\"the-graph\"},\"coinpaprika\":{\"GRT\":\"grt-the-graph\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "GRT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GRT\",\"overrides\":{\"coingecko\":{\"GRT\":\"the-graph\"},\"coinpaprika\":{\"GRT\":\"grt-the-graph\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "GTC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GTC\",\"overrides\":{\"coingecko\":{\"GTC\":\"gitcoin\"},\"coinpaprika\":{\"GTC\":\"gtc-gitcoin\"},\"nomics\":{\"GTC\":\"GITCOIN\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "GUSD / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GUSD\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "GUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"GUSD\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "HBAR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"HBAR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "HIGH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"HIGH\",\"overrides\":{\"coingecko\":{\"HIGH\":\"highstreet\"},\"coinpaprika\":{\"HIGH\":\"high-highstreet-token\"},\"nomics\":{\"HIGH\":\"HIGH2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "HT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"HT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "HUSD / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"HUSD\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ICP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ICP\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ILV / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ILV\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "IMX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"IMX\",\"overrides\":{\"coinpaprika\":{\"IMX\":\"imx-immutable-x\"},\"nomics\":{\"IMX\":\"IMX3\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "IOST / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"IOST\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "IOTX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"IOTX\",\"overrides\":{\"coingecko\":{\"IOTX\":\"iotex\"},\"coinpaprika\":{\"IOTX\":\"iotx-iotex\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "KNC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"KNC\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "KNC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"KNC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "KSM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"KSM\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "LDO / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LDO\",\"includes\":[\"WETH\"],\"overrides\":{\"coinpaprika\":{\"LDO\":\"ldo-lido-dao\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "LINK / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LINK\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "LINK / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LINK\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "LRC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LRC\",\"overrides\":{\"coingecko\":{\"LRC\":\"loopring\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "LRC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LRC\",\"overrides\":{\"coingecko\":{\"LRC\":\"loopring\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "LTC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LTC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "LUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"LUSD\",\"overrides\":{\"coingecko\":{\"LUSD\":\"liquity-usd\"},\"nomics\":{\"LUSD\":\"LUSD2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "MANA / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MANA\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "MANA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MANA\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "MATIC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MATIC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "Total Marketcap / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"globalmarketcap\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "MIM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"MIM\",\"overrides\":{\"coingecko\":{\"MIM\":\"magic-internet-money\"},\"coinpaprika\":{\"MIM\":\"mim-magic-internet-money\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "MKR / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MKR\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "MKR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MKR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "MLN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MLN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "MTA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"MTA\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "NEAR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"NEAR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "NMR / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"NMR\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "NMR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"NMR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "NU / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"NU\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OCEAN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OCEAN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OCEAN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OCEAN\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "OGN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OGN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OHM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OHM\",\"overrides\":{\"coingecko\":{\"OHM\":\"olympus-v1\"},\"coinpaprika\":{\"OHM\":\"ohm-olympus-v1\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OHMv2 / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OHMV2\",\"overrides\":{\"coingecko\":{\"OHMV2\":\"olympus\"},\"coinmarketcap\":{\"OHMV2\":\"OHM\"},\"coinpaprika\":{\"OHMV2\":\"ohmv2-olympus-v2\"},\"nomics\":{\"OHMV2\":\"OHM2\"},\"tiingo\":{\"OHMV2\":\"ohm2\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OKB / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OKB\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "OM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OM\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "OMG / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OMG\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OMG / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OMG\",\"overrides\":{\"coingecko\":{\"OMG\":\"omisego\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ONT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ONT\",\"overrides\":{\"coingecko\":{\"ONT\":\"ontology\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ORN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ORN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "OXT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"OXT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "PAX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"PAX\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "PAXG / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"PAXG\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "PHA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"PHA\",\"overrides\":{\"coinpaprika\":{\"PHA\":\"pha-phala-network\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "PLA / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"PLA\",\"overrides\":{\"coingecko\":{\"PLA\":\"playdapp\"},\"coinpaprika\":{\"PLA\":\"pla-playdapp\"},\"nomics\":{\"PLA\":\"PLA3\"},\"tiingo\":{\"PLA\":\"PLAD\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "RAI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RAI\",\"includes\":[\"WETH\"],\"overrides\":{\"tiingo\":{\"RAI\":\"RAIRFLX\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "RAI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RAI\",\"overrides\":{\"nomics\":{\"RAI\":\"RAI3\"},\"tiingo\":{\"RAI\":\"RAIRFLX\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "RARI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RARI\",\"includes\":[\"WETH\"],\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "REN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"REN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "REN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"REN\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "REP / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"REP\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "RGT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RGT\",\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "RLC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RLC\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "RSR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RSR\",\"overrides\":{\"nomics\":{\"RSR\":\"RSR3\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "RUNE / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RUNE\",\"overrides\":{\"coingecko\":{\"RUNE\":\"thorchain\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "RUNE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"RUNE\",\"overrides\":{\"coingecko\":{\"RUNE\":\"thorchain\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SAND / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SAND\",\"overrides\":{\"coingecko\":{\"SAND\":\"the-sandbox\"},\"nomics\":{\"SAND\":\"SAND2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SFI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SFI\",\"includes\":[\"WETH\"],\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "SHIB / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SHIB\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "SNX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SNX\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "SNX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SNX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SOL / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SOL\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SPELL / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SPELL\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SRM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SRM\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "STETH / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"STETH\",\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"overrides\":{\"coingecko\":{\"STETH\":\"staked-ether\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "STETH / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"STETH\",\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"overrides\":{\"coingecko\":{\"STETH\":\"staked-ether\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SUSD / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"SUSD\",\"overrides\":{\"coingecko\":{\"SUSD\":\"nusd\"},\"coinpaprika\":{\"SUSD\":\"susd-susd\"},\"nomics\":{\"SUSD\":\"SUSD\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "sUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"SUSD\",\"overrides\":{\"coingecko\":{\"SUSD\":\"nusd\"},\"coinpaprika\":{\"SUSD\":\"susd-susd\"},\"nomics\":{\"SUSD\":\"SUSD\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SUSHI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SUSHI\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "SUSHI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SUSHI\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "SWAP / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SWAP\",\"overrides\":{\"coingecko\":{\"SWAP\":\"trustswap\"},\"coinpaprika\":{\"SWAP\":\"swap-trustswap\"},\"nomics\":{\"SWAP\":\"trustswap\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "SXP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"SXP\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "TOKE / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TOKE\",\"overrides\":{\"coingecko\":{\"TOKE\":\"tokemak\"},\"coinpaprika\":{\"TOKE\":\"toke-tokemak\"},\"nomics\":{\"TOKE\":\"toke2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "TOMO / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TOMO\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "TRIBE / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TRIBE\",\"includes\":[\"WETH\"],\"overrides\":{\"nomics\":{\"TRIBE\":\"TRIBE2\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "TRX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TRX\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "TUSD / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TUSD\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "TUSD / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"TUSD\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "UMA / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"UMA\",\"overrides\":{\"coingecko\":{\"UMA\":\"uma\"},\"coinpaprika\":{\"UMA\":\"uma-uma\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "UMEE / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"UMEE\",\"overrides\":{\"coingecko\":{\"UMEE\":\"umee\"},\"coinpaprika\":{\"UMEE\":\"umee-umee\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "UNI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"UNI\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "UNI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"UNI\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "USDC / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDC\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "USDC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "USDK / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDK\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "USDN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDN\",\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "USDP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDP\",\"overrides\":{\"coingecko\":{\"USDP\":\"paxos-standard\"},\"coinpaprika\":{\"USDP\":\"usdp-paxos-standard-token\"},\"nomics\":{\"USDP\":\"pax\"},\"tiingo\":{\"USDP\":\"PAX\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "USDT / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDT\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "USDT / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"USDT\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "UST / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"cid\":\"7129\",\"from\":\"UST\",\"overrides\":{\"coingecko\":{\"UST\":\"terrausd\"},\"coinmarketcap\":{\"UST\":\"7129\"},\"coinpaprika\":{\"UST\":\"ust-terrausd\"},\"cryptocompare\":{\"UST\":\"USTC\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "UST / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"cid\":\"7129\",\"from\":\"UST\",\"overrides\":{\"amberdata\":{\"UST\":\"USTC\"},\"coingecko\":{\"UST\":\"terrausd\"},\"coinmarketcap\":{\"UST\":\"7129\"},\"coinpaprika\":{\"UST\":\"ust-terrausd\"},\"cryptocompare\":{\"UST\":\"USTC\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "VET / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"VET\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "VGX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"VGX\",\"overrides\":{\"coingecko\":{\"VGX\":\"ethos\"},\"coinpaprika\":{\"VGX\":\"ethos-ethos\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "WBTC / BTC",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"WBTC\",\"overrides\":{\"coingecko\":{\"WBTC\":\"wrapped-bitcoin\"},\"nomics\":{\"WBTC\":\"WBTC\"}},\"to\":\"BTC\"}}"
+  },
+  {
+    "name": "WNXM / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"WNXM\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "WOO / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"WOO\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "XCN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"endpoint\":\"crypto\",\"from\":\"XCN\",\"overrides\":{\"coingecko\":{\"XCN\":\"chain-2\"},\"coinpaprika\":{\"XCN\":\"xcn-chain\"},\"nomics\":{\"XCN\":\"XCN2\"}},\"to\":\"USD\"}}"
+  },
+  {
+    "name": "XHV / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"XHV\",\"interval\":\"1h\",\"millisecondsAgo\":\"36000000\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "XLM / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"XLM\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "XMR / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"XMR\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "XRP / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"XRP\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "XTZ / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"XTZ\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "YFI / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"YFI\",\"overrides\":{\"coingecko\":{\"YFI\":\"yearn-finance\"},\"coinpaprika\":{\"YFI\":\"yfi-yearnfinance\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "YFI / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"YFI\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "YFII / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"YFII\",\"overrides\":{\"coingecko\":{\"YFII\":\"yfii-finance\"},\"coinpaprika\":{\"YFII\":\"yfii-dfimoney\"}},\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ZCN / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ZCN\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ZCN / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ZCN\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ZEC / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ZEC\",\"to\":\"USD\"}}"
+  },
+  {
+    "name": "ZRX / ETH",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ZRX\",\"to\":\"ETH\"}}"
+  },
+  {
+    "name": "ZRX / USD",
+    "id": "0080b1f8-a322-4f37-bdfc-761132585254",
+    "method": "POST",
+    "data": "{\"data\":{\"from\":\"ZRX\",\"to\":\"USD\"}}"
+  }
+]

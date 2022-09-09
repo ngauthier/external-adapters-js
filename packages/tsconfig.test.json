@@ -90,9 +90,6 @@
       "path": "./composites/the-graph/tsconfig.test.json"
     },
     {
-      "path": "./non-deployable/token-allocation/tsconfig.test.json"
-    },
-    {
       "path": "./composites/vesper/tsconfig.test.json"
     },
     {
@@ -115,6 +112,12 @@
     },
     {
       "path": "./examples/source/tsconfig.test.json"
+    },
+    {
+      "path": "./non-deployable/reduce/tsconfig.test.json"
+    },
+    {
+      "path": "./non-deployable/token-allocation/tsconfig.test.json"
     },
     {
       "path": "./scripts/tsconfig.test.json"
@@ -219,6 +222,9 @@
       "path": "./sources/coingecko/tsconfig.test.json"
     },
     {
+      "path": "./sources/coingecko-test/tsconfig.test.json"
+    },
+    {
       "path": "./sources/coinlore/tsconfig.test.json"
     },
     {
@@ -274,6 +280,9 @@
     },
     {
       "path": "./sources/dxfeed-secondary/tsconfig.test.json"
+    },
+    {
+      "path": "./sources/elwood/tsconfig.test.json"
     },
     {
       "path": "./sources/ens/tsconfig.test.json"
@@ -433,9 +442,6 @@
     },
     {
       "path": "./sources/por-address-list/tsconfig.test.json"
-    },
-    {
-      "path": "./non-deployable/reduce/tsconfig.test.json"
     },
     {
       "path": "./sources/renvm-address-set/tsconfig.test.json"
