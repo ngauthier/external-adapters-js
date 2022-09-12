@@ -9,8 +9,9 @@ Thank you for your interest in improving the Chainlink External Adapter codebase
 3. [Output](#Output)
 4. [Common Patterns](#Common-Patterns)
 5. [Mock Integration Testing](#Mock-Integration-Testing)
-6. [Soak Testing (Chainlink Labs)](<#Soak-Testing-(Chainlink-Labs)>)
-7. [Adding Provider API Rate Limits](#Adding-Provider-API-Rate-Limits)
+6. [Running Integration Tests](#Running-Integration-Tests)
+7. [Soak Testing (Chainlink Labs)](<#Soak-Testing-(Chainlink-Labs)>)
+8. [Adding Provider API Rate Limits](#Adding-Provider-API-Rate-Limits)
 
 ## Creating A New Adapter
 
@@ -119,6 +120,10 @@ For example, take a look at the [synth-index](./packages/composites/synth-index/
 5. Finally, run your tests with recording disabled (`unset RECORD`). The WebSocket connection should be replaced and mocked.
 
 For more information on Jest, see the [Jest docs](https://jestjs.io/docs/cli).
+
+## Running Integration Tests
+
+When running integration tests (for example `yarn test packages/sources/binance/test/integration`) make sure that metrics are disabled (`export METRICS_ENABLED=false`) and EA server is running on random available port (`export EA_PORT=0`).
 
 ## Soak Testing (Chainlink Labs)
 
